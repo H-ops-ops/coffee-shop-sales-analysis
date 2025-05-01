@@ -3,12 +3,12 @@
 
 ---
 
-## 📊 Overview  
+## Overview  
 This project presents an Excel analysis of sales data from a coffee shop. The aim is to explore trends in product sales, store performance, and customer purchasing behavior across different periods. The analysis is conducted using **Excel PivotTables**, **charts**, and **formula-based calculations**.
 
 ---
 
-## 📁 Data Source  
+## Data Source  
 - **File Used**: `Copy of Coffee Shop Sales.xlsx`  
 - **Format**: Microsoft Excel Workbook (`.xlsx`)  
 - **Content**: Transaction-level sales data including:
@@ -20,7 +20,7 @@ This project presents an Excel analysis of sales data from a coffee shop. The ai
 
 ---
 
-## 🛠️ Key Steps  
+## 🛠Key Steps  
 
 ### 1. Data Cleaning  
 - Checked for missing or inconsistent values  
@@ -40,7 +40,7 @@ This project presents an Excel analysis of sales data from a coffee shop. The ai
 
 ---
 
-## 📌 Key Findings  
+## Key Findings  
 
 - **Revenue Growth**: Consistent increase from January to June.  
 - **Top Store**: *Hell's Kitchen* led in revenue, followed by *Astoria* and *Lower Manhattan*.  
@@ -51,7 +51,7 @@ This project presents an Excel analysis of sales data from a coffee shop. The ai
 
 ---
 
-## 🚀 Future Work  
+## Future Work  
 - Automate monthly tracking using **Excel Macros**  
 - Expand dataset to include **customer demographics** or loyalty program data  
 - Integrate analysis with **Power BI** or **Tableau** for interactive reporting
