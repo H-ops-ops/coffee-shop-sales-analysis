@@ -3,7 +3,7 @@ Excel-Based Sales Dashboard Project
 
 
 Overview
-This project presents an analysis of sales data from a coffee shop using Excel. The aim is to explore trends in product sales, store performance, and customer purchasing behavior across different time periods. The analysis is conducted using Excel PivotTables, charts, and formula-based calculations.
+This project presents an Excel analysis of sales data from a coffee shop. The aim is to explore trends in product sales, store performance, and customer purchasing behavior across different periods. The analysis is conducted using Excel PivotTables, charts, and formula-based calculations.
 
 
 Data Source
