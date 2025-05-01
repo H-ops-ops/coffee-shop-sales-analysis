@@ -20,7 +20,7 @@ This project presents an Excel analysis of sales data from a coffee shop. The ai
 
 ---
 
-## 🛠Key Steps  
+## Key Steps  
 
 ### 1. Data Cleaning  
 - Checked for missing or inconsistent values  
